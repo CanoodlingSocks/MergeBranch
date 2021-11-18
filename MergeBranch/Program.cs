@@ -12,6 +12,8 @@ namespace MergeBranch
         {
             Console.WriteLine("Do not overwrite this");
             Console.WriteLine("Overwrite this");
+
+            Console.ReadLine();
         }
     }
 }
